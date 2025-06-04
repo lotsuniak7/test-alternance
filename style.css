@@ -1,0 +1,23 @@
+/* TODO: Compléter les styles manquants */
+
+.product-card {
+    /* Centrer la carte, largeur 300px, bordure grise, coins arrondis, padding 20px */
+}
+
+.product-card img {
+    /* Image responsive, largeur 100%, hauteur 200px, object-fit cover */
+}
+
+.product-card h2 {
+    /* Couleur #333, taille 24px, marge verticale 15px */
+}
+
+.product-card p {
+    /* Couleur verte #28a745, gras, taille 20px */
+}
+
+#add-btn {
+    /* Bouton bleu #007bff, texte blanc, padding 10px 20px, sans bordure, coins arrondis, curseur pointer */
+}
+
+/* TODO: Ajouter un effet hover sur le bouton (couleur plus foncée) */
